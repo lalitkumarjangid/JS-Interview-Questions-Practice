@@ -7,3 +7,8 @@ const lalit = {
 }
 
 setTimeout (lalit.sayName.bind(lalit) , 3* 1000)
+//output
+
+9
+Lalit Kumar Jangid
+//in this the value is increasing on no. of compile
