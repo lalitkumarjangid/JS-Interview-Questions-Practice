@@ -14,3 +14,7 @@ const adarsh = {
 }
 
 adarsh.sayName.call(lalit)
+
+
+//output 
+Lalit Kumar Jangid
